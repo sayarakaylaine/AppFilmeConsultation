@@ -19,9 +19,6 @@ Node.js (versão 14.x ou superior)
 npm (gerenciador de pacotes do Node.js) ou yarn.
 Além disso, é necessário ter o ambiente de desenvolvimento do React Native configurado. Você pode seguir as instruções oficiais de instalação do React Native aqui.
 
-Instalação do Projeto:
-* Clone o repositório para sua máquina
-
 Instale as dependências:
 
 * npm install
