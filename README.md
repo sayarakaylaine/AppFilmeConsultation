@@ -13,6 +13,7 @@ Tecnologias Utilizadas:
 * TMDb API: API para obter informações sobre filmes.
   
 Pré-requisitos:
+
 Antes de rodar o projeto, você precisará instalar as seguintes dependências:
 
 Node.js (versão 14.x ou superior)
