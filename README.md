@@ -23,7 +23,6 @@ Além disso, é necessário ter o ambiente de desenvolvimento do React Native co
 Instale as dependências:
 
 * npm install
-ou
 * yarn install
 
 Instale as dependências do React Navigation:
